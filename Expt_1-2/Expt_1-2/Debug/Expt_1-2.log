@@ -1,0 +1,17 @@
+﻿Build started 3/13/2019 3:44:12 PM.
+     1>Project "E:\Expt_1-2\Expt_1-2\Expt_1-2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Expt_1-2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Expt_1-2.vcxproj -> E:\Expt_1-2\Debug\Expt_1-2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Expt_1-2.unsuccessfulbuild".
+         Touching "Debug\Expt_1-2.lastbuildstate".
+     1>Done Building Project "E:\Expt_1-2\Expt_1-2\Expt_1-2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14
